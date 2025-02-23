@@ -24,7 +24,7 @@ const Faqs = () => {
           </h2>
           <p className="text-base">
             – Get committed affiliate managers for help and support when you
-            complete the free affiliate registration at HEYBAJI.
+            complete the free affiliate registration at TENXBDT.
           </p>
         </div>
         <div>
@@ -60,7 +60,7 @@ const Faqs = () => {
         </div>
         <div>
           <h2 className="text-xl text-customYellowHeading">
-            6. What payment methods are accepted by the HEYBAJI affiliate
+            6. What payment methods are accepted by the TENXBDT affiliate
             program?
           </h2>
           <p className="text-base">
@@ -95,7 +95,7 @@ const Faqs = () => {
           </h2>
           <p className="text-base">
             – All payments will be made between the 6th and 10th of each month
-            once HEYBAJI affiliates have issued their monthly settlement report.
+            once TENXBDT affiliates have issued their monthly settlement report.
           </p>
         </div>
         <div>
@@ -127,10 +127,10 @@ const Faqs = () => {
         </div>
         <div>
           <h2 className="text-xl text-customYellowHeading">
-            13. What is HEYBAJI Affiliate?
+            13. What is TENXBDT Affiliate?
           </h2>
           <p className="text-base">
-            – HEYBAJI’s affiliate program offers the chance to earn unlimited
+            – TENXBDT’s affiliate program offers the chance to earn unlimited
             lifetime commissions by generating links to their pages and
             promoting special offers.
           </p>

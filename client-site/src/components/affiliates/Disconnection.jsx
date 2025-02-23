@@ -7,7 +7,7 @@ const Disconnection = () => {
             Disconnection Policy{" "}
           </h2>
           <p className="">
-            HEYBAJI is a reputable online casino platform that operates in
+            TENXBDT is a reputable online casino platform that operates in
             Bangladesh. It is our aim to ensure that all our players have a
             smooth and happy gaming environment. It is important to take note
             that eventhough we are trying our best to provide a safe and stable
@@ -38,9 +38,9 @@ const Disconnection = () => {
             Player Protection and Fair Play
           </h2>
           <p className="">
-            Safeguarding our players is HEYBAJI’s highest priority. We have
+            Safeguarding our players is TENXBDT’s highest priority. We have
             established specific policies and procedures to manage disconnection
-            scenarios: Game Session Preservation: HEYBAJI’s advanced system
+            scenarios: Game Session Preservation: TENXBDT’s advanced system
             ensures your gaming session status is saved if a disconnection
             occurs. This technology records your progress and any bets placed,
             allowing you to seamlessly continue once reconnected. Automatic
@@ -50,13 +50,13 @@ const Disconnection = () => {
             helps prevent losses or missed opportunities due to unforeseen
             interruptions. Account Crediting: In the event of a disconnection,
             any winnings from completed game rounds or bets are automatically
-            credited to your HEYBAJI account. This guarantees that you receive
+            credited to your TENXBDT account. This guarantees that you receive
             any due rewards despite technical issues. Customer Support
-            Assistance: HEYBAJI is dedicated to excellent customer service. If
+            Assistance: TENXBDT is dedicated to excellent customer service. If
             you face technical difficulties or disconnections, our customer
             support team is ready to help. Reach out via email or live chat, and
             our team will promptly address your concerns and provide assistance.
-            HEYBAJI is a special online gaming platform that’s perfect for
+            TENXBDT is a special online gaming platform that’s perfect for
             anyone that is looking for a gateway from their boring life. We are
             a fair and safe gaming environment that’s perfect for new players.
             We also house lots of games from different genres. This
