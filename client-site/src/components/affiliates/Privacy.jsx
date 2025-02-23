@@ -5,10 +5,10 @@ const Privacy = () => {
         <div className="max-w-full">
           <h2 className="text-3xl text-customYellowHeading">Privacy Policy </h2>
           <p className="">
-            This Privacy Policy governs the HEYBAJI website, including any other
+            This Privacy Policy governs the TENXBDT website, including any other
             websites, pages, subpages, subdomains, or sections accessible via{" "}
             <br />
-            <span className="text-customYellow">www.HEYBAJI.com.</span>
+            <span className="text-customYellow">www.TENXBDT.com.</span>
             This document outlines how we process the personal information we
             collect from you or that you provide to us. By using or registering
             with our websites, you agree to the terms and conditions of this
@@ -31,7 +31,7 @@ const Privacy = () => {
           <h2 className="text-3xl text-customYellowHeading">Compliance</h2>
           <p className="">
             This Privacy Policy complies with relevant data protection
-            legislation. HEYBAJI regularly reviews the regulations and
+            legislation. TENXBDT regularly reviews the regulations and
             guidelines set forth by the Organization for Economic Co-operation
             and Development to protect user privacy.
           </p>
@@ -82,7 +82,7 @@ const Privacy = () => {
             requirements. We also reserve the right to conduct statistical
             analyses of user behavior and characteristics to evaluate interest
             and usage of various areas of the sites. Aggregated data from these
-            analyses may be shared with advertisers. HEYBAJI is a member of
+            analyses may be shared with advertisers. TENXBDT is a member of
             associations dedicated to protecting the integrity of sports and
             betting. We may access and share your data to monitor betting
             activities.
@@ -92,7 +92,7 @@ const Privacy = () => {
           <h2 className="text-3xl text-customYellowHeading">Compliance</h2>
           <p className="">
             This Privacy Policy complies with relevant data protection
-            legislation. HEYBAJI regularly reviews the regulations and
+            legislation. TENXBDT regularly reviews the regulations and
             guidelines set forth by the Organization for Economic Co-operation
             and Development to protect user privacy.
           </p>
@@ -142,7 +142,7 @@ const Privacy = () => {
           <p className="">
             For any requests regarding your personal information or rights
             mentioned above, please contact us at <br />
-            <span className="text-customYellow">support@HEYBAJI.com.</span>{" "}
+            <span className="text-customYellow">support@TENXBDT.com.</span>{" "}
           </p>
         </div>
       </div>

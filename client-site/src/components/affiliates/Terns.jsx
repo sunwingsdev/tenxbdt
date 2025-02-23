@@ -61,9 +61,9 @@ const Terns = () => {
               true, accurate, and valid.
             </li>
             <li>
-              HEYBAJI is not liable for any risk associated with losing User
+              TENXBDT is not liable for any risk associated with losing User
               ID/Password or sharing this information with others. If you
-              suspect your User ID has been compromised, please contact HEYBAJI
+              suspect your User ID has been compromised, please contact TENXBDT
               support immediately.
             </li>
             <li>
@@ -71,14 +71,14 @@ const Terns = () => {
               understood, and agreed to all the terms and conditions stated.
             </li>
             <li>
-              HEYBAJI uses user-provided information solely for specific
+              TENXBDT uses user-provided information solely for specific
               purposes, such as sending electronic newsletters and providing
               requested information, including promotions and member services.
-              HEYBAJI does not use individual user information for other
+              TENXBDT does not use individual user information for other
               purposes and will not disclose it to third parties without
               consent.
             </li>
-            <li>HEYBAJI’s Terms and Conditions apply.</li>
+            <li>TENXBDT’s Terms and Conditions apply.</li>
             <li>
               Affiliates must have at least 5 active players to qualify for
               commissions.
