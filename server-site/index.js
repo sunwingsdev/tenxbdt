@@ -30,10 +30,9 @@ const corsConfig = {
     "https://www.betby247.com",
     "www.betby247.com",
     "betby247.com",
-    "https://fx9bet.com",
-    "http://fx9bet.com",
-    "www.fx9bet.com",
-    "fx9bet.com",
+    "https://tenxbdt.live",
+    "http://tenxbdt.live",
+    "tenxbdt.live",
     // "https://darazplay.oracleapi.net",
     // "http://darazplay.oracleapi.net",
     // "https://www.darazplay.oracleapi.net",
@@ -100,25 +99,25 @@ async function run() {
     await client.connect();
 
     //collections start
-    const usersCollection = client.db("heybaji").collection("users");
-    const depositsCollection = client.db("heybaji").collection("deposits");
-    const withdrawsCollection = client.db("heybaji").collection("withdraws");
-    const promotionCollection = client.db("heybaji").collection("promotions");
-    const categoriesCollection = client.db("heybaji").collection("categories");
-    const pagesCollection = client.db("heybaji").collection("pages");
+    const usersCollection = client.db("tenxbdt").collection("users");
+    const depositsCollection = client.db("tenxbdt").collection("deposits");
+    const withdrawsCollection = client.db("tenxbdt").collection("withdraws");
+    const promotionCollection = client.db("tenxbdt").collection("promotions");
+    const categoriesCollection = client.db("tenxbdt").collection("categories");
+    const pagesCollection = client.db("tenxbdt").collection("pages");
     const homeControlsCollection = client
-      .db("heybaji")
+      .db("tenxbdt")
       .collection("homeControls");
-    const kycCollection = client.db("heybaji").collection("kyc");
+    const kycCollection = client.db("tenxbdt").collection("kyc");
     const paymentNumberCollection = client
-      .db("heybaji")
+      .db("tenxbdt")
       .collection("payment-numbers");
     const paymentMethodCollection = client
-      .db("heybaji")
+      .db("tenxbdt")
       .collection("payment-methods");
-    const referCodesCollection = client.db("heybaji").collection("refer-links");
+    const referCodesCollection = client.db("tenxbdt").collection("refer-links");
     const commissionsCollection = client
-      .db("heybaji")
+      .db("tenxbdt")
       .collection("commissions");
     //collections end
 

@@ -206,7 +206,7 @@ const DepositModal = ({ closeDepositModal }) => {
                 <div className="py-3 px-2 bg-footerBg max-h-[410px] 2xl:max-h-[560px] overflow-y-auto scrollbar-hide">
                   {/* Bank account name */}
                   <div className="p-3 bg-white rounded-md">
-                    <h2 className="mb-2 text-base font-semibold text-footerTextColor border-l-4 border-footerTextColor pl-1">
+                    <h2 className="mb-2 text-base font-semibold text-depositeModalTitleColor border-l-4 border-depositTitleBorderColor pl-1">
                       Payment Method
                     </h2>
                     {activeTabBottom === "deposit" ? (
@@ -232,7 +232,7 @@ const DepositModal = ({ closeDepositModal }) => {
                                 alt={item?.method}
                               />
                               {item?.method === paymentMethod?.method && (
-                                <span className="absolute top-[-5px] right-[-5px] bg-footerTextColor text-white rounded-full w-4 h-4 flex items-center justify-center text-xs">
+                                <span className="absolute top-[-5px] right-[-5px] bg-depositTitleBorderColor text-white rounded-full w-4 h-4 flex items-center justify-center text-xs">
                                   <Check size={10} />
                                 </span>
                               )}
@@ -241,7 +241,7 @@ const DepositModal = ({ closeDepositModal }) => {
                         </div>
                         {/* Deposit Channel */}
                         <div className="mt-2 p-3 bg-white rounded-md">
-                          <h2 className="mb-2 text-base font-semibold text-footerTextColor border-l-4 border-footerTextColor pl-1">
+                          <h2 className="mb-2 text-base font-semibold text-depositeModalTitleColor border-l-4 border-depositTitleBorderColor pl-1">
                             Deposit Channel
                           </h2>
                           <div className="flex gap-3">
@@ -256,13 +256,13 @@ const DepositModal = ({ closeDepositModal }) => {
                                 }
                                 className={`relative py-1.5 px-4 text-sm border rounded-sm uppercase transition-all duration-300 ${
                                   formData.depositChannel === label
-                                    ? "border-footerTextColor text-footerTextColor"
+                                    ? "border-depositTitleBorderColor text-depositeModalTitleColor"
                                     : "border-gray-400 text-gray-600"
                                 }`}
                               >
                                 {label}
                                 {formData.depositChannel === label && (
-                                  <span className="absolute top-[-5px] right-[-5px] bg-footerTextColor text-white rounded-full w-4 h-4 flex items-center justify-center text-xs">
+                                  <span className="absolute top-[-5px] right-[-5px] bg-depositTitleBorderColor text-white rounded-full w-4 h-4 flex items-center justify-center text-xs">
                                     <Check size={10} />
                                   </span>
                                 )}
@@ -273,7 +273,7 @@ const DepositModal = ({ closeDepositModal }) => {
 
                         {/* Amount */}
                         <div className="mt-2 p-3 bg-white rounded-md">
-                          <h2 className="mb-2 text-base font-semibold text-footerTextColor border-l-4 border-footerTextColor pl-1">
+                          <h2 className="mb-2 text-base font-semibold text-depositeModalTitleColor border-l-4 border-footerTextColor pl-1">
                             Amount
                           </h2>
                           <div>
