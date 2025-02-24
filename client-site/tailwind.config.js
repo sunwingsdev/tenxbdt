@@ -30,6 +30,8 @@ export default {
         gameMenuBgActive: "#025e27",
         mobileMenuBg: "#00963c",
         mobileSubMenuBg: "#025e27",
+        depositeModalTitleColor: "#000000",
+        depositTitleBorderColor: "#00963c",
 
         customWhite: "#fff",
         customGreenPrimary: "#117c44",
