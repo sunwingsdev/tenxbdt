@@ -31,7 +31,7 @@ const Registration = () => {
                   Verification
                 </h3>
                 <p className="text-md font-medium text-white text-center mt-2">
-                  After submitting the HEYBAJI partner form, expect review and
+                  After submitting the TENXBDT partner form, expect review and
                   email confirmation within 24 hours.
                 </p>
               </div>
@@ -40,7 +40,7 @@ const Registration = () => {
                   Payment
                 </h3>
                 <p className="text-md font-medium text-white text-center mt-2">
-                  Earnings are transferred weekly to the partner{"'"}s HEYBAJI
+                  Earnings are transferred weekly to the partner{"'"}s TENXBDT
                   account provided during registration.
                 </p>
               </div>

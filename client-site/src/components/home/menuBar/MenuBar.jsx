@@ -108,7 +108,7 @@ const MenuBar = () => {
       ],
     },
     {
-      id: 3,
+      id: 6,
       name: "SLOTS",
       icon: "https://img.d4040p.com/dp/h5/assets/images/icon-set/theme-icon/icon-slot.png?v=1737700451320",
       subItems: [
@@ -215,7 +215,7 @@ const MenuBar = () => {
       ],
     },
     {
-      id: 4,
+      id: 5,
       name: "CRASH",
       icon: "https://img.d4040p.com/dp/h5/assets/images/icon-set/theme-icon/icon-crash.png?v=1737700451320",
       subItems: [
@@ -246,7 +246,7 @@ const MenuBar = () => {
       ],
     },
     {
-      id: 5,
+      id: 3,
       name: "CASINO",
       icon: "https://img.d4040p.com/dp/h5/assets/images/icon-set/theme-icon/icon-casino.png?v=1737700451320",
       subItems: [
@@ -285,7 +285,7 @@ const MenuBar = () => {
       ],
     },
     {
-      id: 6,
+      id: 4,
       name: "TABLE",
       icon: "https://img.d4040p.com/dp/h5/assets/images/icon-set/theme-icon/icon-table.png?v=1737700451320",
       subItems: [
@@ -504,6 +504,11 @@ const MenuBar = () => {
   return (
     <>
       <div>
+        {/* Sort menuItems and their subItems before rendering */}
+        {menuItems
+          .sort((a, b) => a.id - b.id)
+          .forEach((item) => item.subItems.sort((a, b) => a.id - b.id))}
+
         {/* Menu Bar */}
         <div className="menu-container flex bg-MenuBarBg overflow-x-auto">
           {menuItems.map((item) => (
@@ -515,13 +520,6 @@ const MenuBar = () => {
               }`}
             >
               <div className="tab-content">
-                {/* <img
-                  className={`w-8 m-auto tab-image ${
-                    activeTab === item.id ? "filter-white" : "filter-white"
-                  }`}
-                  src={item.icon}
-                  alt={item.name}
-                /> */}
                 <img
                   className="w-8 m-auto text-black bg-white rounded-full"
                   src={item?.icon}

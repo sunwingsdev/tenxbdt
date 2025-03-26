@@ -7,7 +7,7 @@ const Join = () => {
       <div className="hero-content text-center">
         <div className="max-w-full">
           <h2 className="text-4xl  text-customYellowHeading  mb-10">
-            Join Our Affiliate Program at HEYBAJI Now!
+            Join Our Affiliate Program at TENXBDT Now!
           </h2>
 
           <div className="box-border   lg:gap-12 p-4 border-none h-screen flex items-center justify-center">

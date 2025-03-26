@@ -4,7 +4,7 @@ const Introduction = () => {
       <div className="hero-content text-center">
         <div className="max-w-full">
           <h2 className="text-4xl  text-customYellowHeading  mb-10">
-            WHY HEYBAJI AFFILIATE
+            WHY TENXBDT AFFILIATE
           </h2>
           <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 mr-10  gap-20 md:gap- lg:gap-10">
             {/* First Row */}
@@ -24,7 +24,7 @@ const Introduction = () => {
                 />
                 <div className="text-left poppins font-medium sans-serif">
                   <p className="ml-2">
-                    Easily create your free HEYBAJI agent account <br />
+                    Easily create your free TENXBDT agent account <br />
                     independently and <br />
                     effortlessly.
                   </p>
@@ -119,7 +119,7 @@ const Introduction = () => {
                 />
                 <div className="text-left poppins font-medium sans-serif">
                   <p className="ml-2">
-                    Easily create your free HEYBAJI agent account
+                    Easily create your free TENXBDT agent account
                     <br />
                     independently and effortlessly.
                   </p>
